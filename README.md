@@ -1,6 +1,6 @@
 # Slim-App
 
-Slim-App is a simple web application built with [Slim](http://www.slimframework.com/) and [Bootstrap](http://getbootstrap.com/).
+Slim-App is a simple web application built with [Slim](http://www.slimframework.com/)
 
 ## Installation
 
